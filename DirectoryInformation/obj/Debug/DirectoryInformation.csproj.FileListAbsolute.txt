@@ -1,0 +1,6 @@
+F:\School\CP1120 - Fundamentals of Programming I\Assignment #5\DirectoryInformation\obj\Debug\DirectoryInformation.csprojAssemblyReference.cache
+F:\School\CP1120 - Fundamentals of Programming I\Assignment #5\DirectoryInformation\bin\Debug\DirectoryInformation.exe.config
+F:\School\CP1120 - Fundamentals of Programming I\Assignment #5\DirectoryInformation\bin\Debug\DirectoryInformation.exe
+F:\School\CP1120 - Fundamentals of Programming I\Assignment #5\DirectoryInformation\bin\Debug\DirectoryInformation.pdb
+F:\School\CP1120 - Fundamentals of Programming I\Assignment #5\DirectoryInformation\obj\Debug\DirectoryInformation.exe
+F:\School\CP1120 - Fundamentals of Programming I\Assignment #5\DirectoryInformation\obj\Debug\DirectoryInformation.pdb
